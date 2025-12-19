@@ -2,83 +2,64 @@
 
 # Enterprise Retail Platform – Technical Contribution
 
-This repository documents my technical contributions and engineering responsibilities
-during my internship at an enterprise retail automation company.
 
-⚠️ Note: Due to confidentiality, proprietary source code is not included.
-This repository focuses on system architecture, backend logic, and technical workflows.
+This repository documents my **technical contributions and engineering responsibilities**
+during my university internship at an enterprise retail automation company.
 
+⚠️ **Note:** Due to confidentiality, proprietary source code is not included.
+The focus of this repository is on **system architecture, backend workflows,
+and enterprise-level technical practices**.
 
-## Project Overview
+---
 
-The platform is an enterprise-scale retail automation system supporting:
-- Self-checkout solutions
-- POS integrations
-- Multi-channel retail operations
-- Backend services for store automation
+## Project 1: R10 Enterprise Retail Platform  
+**Internal Enterprise Retail Automation System**
 
-The system operates across hardware, software, and service layers.
+### Overview
+R10 is an enterprise-scale retail automation platform supporting large-scale retail
+operations, including multi-channel sales workflows, backend services, and system automation.
 
+### Contributions
+- Contributed to **backend development and system architecture support**
+- Assisted in **data processing pipelines, business logic implementation, and automation**
+- Supported **bug resolution and performance tuning** across multiple sales channels
+- Collaborated with **cross-functional teams** during development, testing, and deployment
+- Assisted in **enterprise compliance processes** aligned with **ISO 9001, ISO 14001, and ISO 27001**
 
-## My Technical Contributions
+### Technical Focus
+- Backend systems & enterprise logic  
+- System integration & data flow  
+- Performance optimization  
+- Security-aware and compliance-oriented development  
 
-### Backend & System Engineering
-- Contributed to backend development and system integration layers
-- Assisted in business logic implementation and data processing workflows
-- Supported bug resolution and performance tuning in production environments
-- Worked on system automation processes improving operational efficiency
+---
 
-### Architecture & Integration
-- Supported system architecture discussions and backend integrations
-- Assisted in ensuring seamless communication between backend services and frontend layers
-- Worked on data consistency and system reliability across sales channels
+## Project 2: Encore Corporate Website  
+🌐 https://www.encore.com.tr
 
-### Security & Compliance Awareness
-- Assisted during compliance audits and documentation processes
-- Contributed to ISO 9001, ISO 14001, and ISO 27001 aligned workflows
-- Gained hands-on exposure to security-oriented system controls and enterprise standards
+### Overview
+The Encore corporate website is the public-facing digital platform of Encore Information Systems,
+supporting corporate communication and content management workflows.
 
-### Collaboration & Deployment
-- Collaborated with cross-functional teams including developers, designers, and operations
-- Supported testing, deployment, and post-deployment validation processes
+### Contributions
+- Contributed to **backend development and system integration**
+- Assisted in **content management workflows and data consistency**
+- Supported **bug fixes and performance optimizations**
+- Worked closely with developers and designers to ensure **stable backend–frontend integration**
+- Assisted with **technical SEO improvements** 
 
+---
 
+## Visual Reference
+Screenshots included in this repository represent **publicly accessible interfaces only**
+and are provided **for contextual reference**.
 
-## Technologies & Concepts
-
-- Backend development (enterprise-level systems)
-- System integration & data flow
-- Business logic implementation
-- Performance optimization
-- Security-aware development practices
-- ISO-aligned enterprise workflows
-
-
-
-## Visual Reference (Public Website)
-
-The following screenshots represent the public-facing website of the platform.
-They are included **only as visual context**, not as source code.
-
-> Website: https://www.encore.com.tr
-
+---
 
 ## Disclaimer
-
-This repository does not contain proprietary code, credentials, or confidential system details.
-All information is shared for portfolio and educational purposes only.
-
-
-
-## NOTE:
-
-> The following screenshots are provided for visual context only and represent
-> the publicly accessible interface of the Encore Enterprise Retail Platform.
-> My contributions primarily focused on backend integration, system architecture
-> support, data management, and enterprise compliance alignment rather than UI
-> development.
-
-> No proprietary source code or internal systems are exposed.
+- No proprietary source code, credentials, or confidential system details are included
+- All content is shared **for portfolio and educational purposes only**
+- Contributions focus on **backend systems, architecture support, and enterprise workflows**
 
 
 
