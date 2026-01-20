@@ -10,6 +10,8 @@ during my university internship at an enterprise retail automation company.
 The focus of this repository is on **system architecture, backend workflows,
 and enterprise-level technical practices**.
 
+#### This platform supports enterprise retail operations across multiple regions, enabling scalable, multi-site workflows in an international environment.
+
 ---
 
 ## Project 1: R10 Enterprise Retail Platform  
